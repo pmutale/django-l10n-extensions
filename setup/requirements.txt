@@ -1,4 +1,4 @@
-Django==2.2.18
+Django==3.2.14
 django_extensions==1.7.9
 polib==1.0.8
 pytest==3.0.7
